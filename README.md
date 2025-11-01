@@ -21,6 +21,9 @@ $ npm start
 http://localhost:3000
 ```
 
+фронт: http://localhost:3000
+
+
 Миграции и сидеры:
 ```bash
 docker compose exec app php artisan migrate:fresh --seed
